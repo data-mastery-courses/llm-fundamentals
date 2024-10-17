@@ -3,7 +3,7 @@ name = "llm-fundamentals"
 version = "0.0.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.12,<3.13"
 dependencies = [
     "httpx>=0.27.2",
     "ipykernel>=6.29.5",
@@ -14,6 +14,7 @@ dependencies = [
     "beautifulsoup4>=4.12.3",
     "openai>=1.51.0",
     "pandas>=2.2.3",
+    "tantivy>=0.22.0",
 ]
 
 [tool.ruff]
