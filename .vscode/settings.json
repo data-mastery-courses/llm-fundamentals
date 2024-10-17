@@ -1,0 +1,8 @@
+{
+    // Hover over a setting to see what it does
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "notebook.diff.ignoreMetadata": true,
+    "notebook.diff.ignoreOutputs": true,
+    "notebook.output.scrolling": true,
+  }
+  
